@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/to/develop-packages).
 -->
 
-# 支付 SDK
+# XPayment SDK for Flutter
 
 
 ## 功能
@@ -31,7 +31,7 @@ flutter pub add xpayment
 
 ```yaml
 dependencies:
-  xpayment: ^0.0.3
+  xpayment: ^0.0.6
 ```
 
 ## 使用
