@@ -31,7 +31,7 @@ flutter pub add xpayment
 
 ```yaml
 dependencies:
-  xpayment: ^0.0.1
+  xpayment: ^0.0.3
 ```
 
 ## 使用
