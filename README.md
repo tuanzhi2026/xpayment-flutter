@@ -36,7 +36,7 @@ dependencies:
 
 ## 使用
 
-1. 引入 xpayment 库
+1. 引入 XPayment 库
 
 ```dart
 import 'package:xpayment/xpayment.dart' as xpay;
